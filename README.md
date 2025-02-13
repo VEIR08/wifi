@@ -19,4 +19,5 @@ sh wifi-hacker.sh
 
 
 untuk selengkapnya cek di https://www.kumpulanremaja.com/2019/09/bobol-wifi-dengan-termux.html
+run
 
